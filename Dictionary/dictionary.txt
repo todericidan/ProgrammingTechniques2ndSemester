@@ -1,0 +1,1 @@
+{"Word [wordId=1, name=masina, searchFrequency=99.99]":[{"descriptId":1,"accuracy":90.0,"nil":false,"description":"automobil"},{"descriptId":2,"accuracy":100.0,"nil":false,"description":"autovehicul"}],"Word [wordId=1, name=aaa, searchFrequency=99.99]":[{"descriptId":1,"accuracy":22.0,"nil":false,"description":"123"}]}
